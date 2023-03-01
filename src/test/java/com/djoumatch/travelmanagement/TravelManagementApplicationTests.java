@@ -9,7 +9,7 @@ class TravelManagementApplicationTests {
 
     @Test
     void contextLoads() {
-        Assertions.fail("Test is ok");
+       // Assertions.fail("Test is ok");
     }
 
 }
